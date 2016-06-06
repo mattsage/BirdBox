@@ -1,7 +1,7 @@
 # BirdBox
 Raspberry Pi Birdbox  
 
-##Equiptment:  
+##Equipment:  
 * Raspberry Pi Zero  
 * Wifi Module  
 * 3m Micro USB Cable  
