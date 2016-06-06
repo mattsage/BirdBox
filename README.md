@@ -5,9 +5,9 @@ Raspberry Pi Birdbox
 * Raspberry Pi Zero  
 * Wifi Module  
 * 3m Micro USB Cable  
-* IR Module  
-* Pi Camera 
-* DHT-11  
+* LISIPAROI IR Module  
+* Pi Camera V1
+* DHT-11 - Temperature and Humidity Sensor
 
 ##Deliverables
 - [ ] Photo Taken on Movement  
