@@ -3,11 +3,13 @@ Raspberry Pi Birdbox
 
 ##Equipment:  
 * Raspberry Pi Zero  
+* MotionEyeOS (https://github.com/ccrisan/motioneyeos/releases)  
 * Wifi Module  
+* OTG Cable  
 * 3m Micro USB Cable  
 * LISIPAROI IR Module  
-* Pi Camera V1
-* DHT-11 - Temperature and Humidity Sensor
+* Pi Camera V1  
+* DHT-11 - Temperature and Humidity Sensor  
 
 ##Deliverables
 - [ ] Photo Taken on Movement  
