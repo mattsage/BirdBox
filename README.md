@@ -10,6 +10,7 @@ Raspberry Pi Birdbox
 * LISIPAROI IR Module (http://www.lisiparoi.com/)  
 * Pi Camera V1  
 * DHT-11 - Temperature and Humidity Sensor  
+* Birdbox
 
 ##Deliverables
 - [ ] Photo Taken on Movement  
