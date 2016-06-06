@@ -22,5 +22,5 @@ Raspberry Pi Birdbox
 ##Scripts  
 * BB-Movement.py - Script to take photo everytime motion is sensed  
 * BB-TimeLapse.py - Timelapse script (Four photos per day)  
-* BB-TempHum.py  - Gather Temperature and Humidity (Four readings per day)
-* BB-UploadPhotos - Upload all photos once a week to RAID/Cloud Storage and clean-up
+* BB-TempHum.py  - Gather Temperature and Humidity (Four readings per day)  
+* BB-UploadPhotos - Upload all photos once a week to RAID/Cloud Storage and clean-up  
