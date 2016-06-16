@@ -20,3 +20,5 @@ with picamera.PiCamera() as camera:
 #	os.rename("/home/pi/Documents/BirdBox/Motion/image.jpg", time.strftime("/home/pi/Documents/BirdBox/Motion/BBM_%Y%m%d%H%M.jpg"))
 
 GPIO.output(19, GPIO.LOW) #Turn off LEDs
+GPIO.cleanup()  
+
