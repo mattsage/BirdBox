@@ -20,3 +20,6 @@ while True:
 #	os.rename("/home/pi/Documents/BirdBox/Motion/image.jpg", time.strftime("/home/pi/Documents/BirdBox/Motion/BBM_%Y%m%d%H%M.jpg"))
   GPIO.output(19, GPIO.LOW) #Turn off LEDs
   time.sleep(14400) #Sleep for 4 hours
+  
+  GPIO.cleanup()  
+
