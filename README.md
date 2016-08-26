@@ -8,8 +8,8 @@ Raspberry Pi Birdbox
 * OTG Cable  
 * 3m Micro USB Cable  
 * LISIPAROI IR Module (http://www.lisiparoi.com/)  
-* Pi Camera V1  
-* DHT-11 - Temperature and Humidity Sensor  
+* Pi IR Camera V1  
+* DS18B20 Waterproof Digital Sensor Thermal Probe
 * Birdbox
 
 ##Deliverables
