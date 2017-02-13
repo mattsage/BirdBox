@@ -5,6 +5,7 @@ Raspberry Pi Birdbox
 * Raspberry Pi Zero  
 * MotionEyeOS (https://github.com/ccrisan/motioneyeos/releases)  
 * Wifi Module  
+* Zero4U
 * OTG Cable  
 * 3m Micro USB Cable  
 * LISIPAROI IR Module (http://www.lisiparoi.com/)  
